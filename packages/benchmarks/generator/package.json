@@ -23,7 +23,7 @@
     "@types/js-combinatorics": "^0.5.32",
     "@types/mkdirp": "^1.0.1",
     "@types/puppeteer": "^3.0.2",
-    "@types/react": "^16.9.36",
+    "@types/react": "^16.14.67",
     "@types/react-dom": "^16.9.8",
     "@types/rimraf": "^3.0.0",
     "@web/dev-server": "^0.3.0",
