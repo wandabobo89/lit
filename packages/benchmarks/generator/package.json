@@ -24,7 +24,7 @@
     "@types/mkdirp": "^1.0.1",
     "@types/puppeteer": "^3.0.2",
     "@types/react": "^16.9.36",
-    "@types/react-dom": "^16.9.8",
+    "@types/react-dom": "^16.9.25",
     "@types/rimraf": "^3.0.0",
     "@web/dev-server": "^0.3.0",
     "command-line-args": "^5.1.1",
